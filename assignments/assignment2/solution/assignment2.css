@@ -21,7 +21,7 @@ h1 {
 
 
 .section {
-    border: 1px solid black;
+    border: 1px solid white;
     background-color: black; 
     height: 200px;
     margin-left: 10px;
@@ -35,11 +35,13 @@ h1 {
     width: 120px;
     height: 32px;
     font-size: 26px;
-    right: 0px;
+    right: -1px;
+    top: -1px;
     color: black;
     position: absolute;
     text-align: center;
     font-family: fantasy, sans-serif;
+    border:1px solid white;
 }
 
 #section-chicken {
