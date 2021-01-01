@@ -9,6 +9,15 @@ body {
   min-height: 120rem;
 }
 
+.navbar-brand {
+  font-size: 1.6em;
+}
+
+.navbar-nav {
+  text-align: center;
+  font-size: 1.2em;
+}
+
 .menu-item-description {
   overflow: hidden;
   margin: 0 auto 15px;
@@ -37,7 +46,3 @@ body {
   margin: 16px;
   font-size: 16px;
 }
-
-
-
-.menu-item-details
