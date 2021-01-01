@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #001f3f;
+  
+  /* Show it's not fixed to the top */
+  min-height: 120rem;
+}
+
+.menu-item-description {
+  overflow: hidden;
+  margin: 0 auto 15px;
+  border: 1px solid white;
+  background-color: black;
+}
+
+.menu-item-title {
+  border: 1px solid white;
+  background-color:white;
+
+}
+
+.menu-item-title img {
+  height: 41px;
+  vertical-align: top;
+}
+
+.menu-item-title span {
+  font-family: fantasy, sans-serif;
+  font-size: 32px;
+}
+
+.menu-item-details {
+  font-family:Georgia, sans-serif;
+  margin: 16px;
+  font-size: 16px;
+}
+
+
+
+.menu-item-details
